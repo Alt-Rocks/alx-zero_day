@@ -1,1 +1,1 @@
-Solutions to Git project
+Solutions to ALX Git project
